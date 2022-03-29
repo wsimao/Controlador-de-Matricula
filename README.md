@@ -1,2 +1,2 @@
 # Padr-es-de-Projeto
-Padrões de Projeto - TSI
+Padroes de Projeto - TSI
