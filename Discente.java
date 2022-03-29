@@ -24,9 +24,9 @@ public class Discente extends Pessoa {
 
     public Discente(String nomeCompleto, String email, String instituicao, String curso, String periodoLetivo, String matricula) {
         super(nomeCompleto, email);
-        this.instituicao = instituicao;
+        this.instituicao = "Instituto Federal Goiano - Campus Morrinhos";
         this.curso = curso;
-        this.periodoLetivo = periodoLetivo;
+        this.periodoLetivo = "2022/1";
         this.matricula = matricula;
     }
 
